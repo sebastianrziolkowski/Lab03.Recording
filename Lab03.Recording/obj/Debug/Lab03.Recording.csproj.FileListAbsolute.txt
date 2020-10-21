@@ -1,0 +1,7 @@
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\bin\Debug\Lab03.Recording.exe.config
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\bin\Debug\Lab03.Recording.exe
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\bin\Debug\Lab03.Recording.pdb
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\obj\Debug\Lab03.Recording.csprojAssemblyReference.cache
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\obj\Debug\Lab03.Recording.csproj.CoreCompileInputs.cache
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\obj\Debug\Lab03.Recording.exe
+C:\Users\SebastianZiółkowski\source\repos\Lab03.Recording\Lab03.Recording\obj\Debug\Lab03.Recording.pdb
